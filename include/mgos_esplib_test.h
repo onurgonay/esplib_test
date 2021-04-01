@@ -6,7 +6,7 @@ extern "C" {
 #endif
   
   
-void mgos_awake(void);  
+void mgos_awake(int i);  
   
   
   
