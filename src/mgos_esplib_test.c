@@ -2,7 +2,7 @@
 #include "mgos_esplib_test.h"
 
 
-void mgos_awake(void){
+void mgos_awake(int i){
   LOG(LL_INFO, "Mgos testlib");
   
   
