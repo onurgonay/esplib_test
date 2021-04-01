@@ -1,5 +1,5 @@
 #include "mgos.h"
 
-bool mgos_empty_init(void) {
+bool mgos_esplib_test_init(void) {
   return true;
 }
